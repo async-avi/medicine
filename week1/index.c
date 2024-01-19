@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
     // Displaying the text
     printf("Hello, World!\n");
 
